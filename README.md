@@ -3,7 +3,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-00C2FF?style=for-the-badge&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logoColor=white)
+
 
 > **8-page interactive Power BI dashboard** analyzing 48,635 banking transactions to detect, visualize, and interpret financial fraud across 11 global cities.
 
@@ -14,7 +15,7 @@
 - [Key Insights](#-key-insights)
 - [Dashboard Pages](#-dashboard-pages)
 - [DAX Measures](#-dax-measures)
-- [Tools & Technologies](#-tools--technologies)
+- [Tools & Technologies](#tools--technologies)
 - [Dataset](#-dataset)
 - [Screenshots](#-screenshots)
 - [Author](#-author)
