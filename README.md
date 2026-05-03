@@ -15,7 +15,7 @@
 - [Key Insights](#-key-insights)
 - [Dashboard Pages](#-dashboard-pages)
 - [DAX Measures](#-dax-measures)
-- [Tools & Technologies](#tools--technologies)
+- [Tools & Technologies](#️-tools--technologies)
 - [Dataset](#-dataset)
 - [Screenshots](#-screenshots)
 - [Author](#-author)
